@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "debtrust001",
+  "private_key_id": "da17a888cd040a7e0e8b0450c762890544a74061",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCN+wUJb3qOmWQG\nFvK2Qg2ldiV1CJN216oHT1HHeu5MOCRXAzaGULmac5bF9klvsJ4CBVKDz+jNmAHu\nDfylRB8+mBAEytBnHmkX1drYtNgEuiHj6pfFE0p8wof4U7aN0FKhDrX6Wgv25P1z\nRrZ2U9/8kisro4bIFKaRdpffQaaaI2mhibAU0YrQZz12J6hhUUIaRA82dS5RGs5e\n/bhH423hWu1/ux6NK7GWfZiDIzp5ePFeFFq7iYbH/WV9a3XkgDAK74dGPJL3JH/P\nwOuA1r0E98imP1RfaUIYrwSkJRAdy/Yp3A1wj36SpBtOM/wPirVZiVSro6BRRbXF\nu3EMzs4pAgMBAAECggEABybKdhNKgqXJIxcN/S5eZm6eduK/yMfsAtJqPbMcZImc\nZ6dGsbpzCuEBH8dmzgyA/Pw8eogNrijBX3a5ZTAFUd9nc9JXxSXukw/c0OG/vXHh\ntKD+VDkt8pL64IAuTROIofUDfLuDPZmtsYbcOHbDl22GZVGR6lXt85xGt0Jk4ap3\n7j/bYOBIZLRfQSnZ4iYOGtVmsdw2OIyqPPd/qcruxDTIo5RUF9HRSv7+cKqjVGY5\nikSSQdC4GrHiK4ibRFLmlhIRPxKdSMT77Yx8JQ+BRpN20YD6derdz2AWElQ8ILN7\nQSRBQLjnxtM54jU8X5aDelMME+kmodUqa4KFtrernQKBgQDC32fQZP6a0rnbcU30\ntfYN1RBgSF0V3Dw8yI2UEmEgNownmA7EOOCphMy5pZZTMvOdJQPCmzOstcG16U8r\nEFPW2Q03Lky1BdnsDnMrgfpQHyKi2qfxLdHg0COeJ84jmIE0EbTqoFzt9Cye9dI4\npexrc9tcsUTtGT3AkmmImvDNXQKBgQC6hEocypKiQrpodZZgyZlkjdPIoXFhx4pY\nneJHaD0ksMTLRD0Prp0iuNqrLbs6IpQYFvW76wjHkBDgKe3eOZo82jo0WHGbVfnd\nQ4YdMc5yW9oeecj70HduWENSSlj4K82t8Oy0HKtS4KfcZXqHIyjipSLqZ0wkkP2Q\n3NR6mHhrPQKBgG0cl80Yb3KS4NvdAjAtnhq6nNO8UNqHmPbTuGobLGTUBf+5ZTM7\nQZfJMrQT4iqtkbgAXK2fJvziPBc2DkzndHoMyBiIhQyqvQ0uPhAzU8t+027qDTS+\nWhCNmhPY59QIdPeJnonsxnu5xy4uJ8nuJYU4tq+c1iIHiwsDL7H8Ry5FAoGAVy8D\nHZYrGKGsVKuyUSerBe+tsTiVsSj+qBGU9d/pxL7EHmeVS0FJvjM+M4m63J/RLbl9\nwAtLHU1gNggjYh72078GOfWllQCJPT4U8IyZfaclu90db2ewi+nB/jM2hzqid84I\nNuC3zJOqo0DkF0r+D4M1YPBMDUOg4xf2Uh/3GdkCgYAUN2QNI0dF61AiHx+Yp9dZ\nPP62DcMbVnrnHVwgDSfqlT9i2tRyHTGly9hdj77hI9IfDHGAmekLhDokOe1Hp637\nV+5yQV/XKPESekEmaPDD59M5XfL9+CopHD8Eycu+SKexPkhIkR6RZYCxzONEFmTP\nr42KwyWTtLJYhLsE6ioMdQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fastbid-svc-account@debtrust001.iam.gserviceaccount.com",
+  "client_id": "115042797209380811269",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fastbid-svc-account%40debtrust001.iam.gserviceaccount.com"
+}

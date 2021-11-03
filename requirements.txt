@@ -1,0 +1,5 @@
+fastapi[all]
+scikit-learn
+uvicorn[standard]
+google-cloud-storage
+gunicorn
